@@ -1,0 +1,67 @@
+/*bootstrap button edited to be a differnt colour.
+Used throughout website for consistent theme*/
+.btn-dark {
+  color: #fff;
+  background-color:#43464B;
+  border-color: #43464B;
+}
+.btn-dark:focus,
+.btn-dark.focus {
+  color: #fff;
+  background-color: #222;
+  border-color: #222;
+}
+.btn-dark:hover {
+  color: #fff;
+  background-color: #222;
+  border-color: #222;
+}
+.btn-dark:active,
+.btn-dark.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #43464B;
+  border-color: #43464B;
+}
+.btn-dark:active:hover,
+.btn-dark.active:hover,
+.open > .dropdown-toggle.btn-dark:hover,
+.btn-dark:active:focus,
+.btn-dark.active:focus,
+.open > .dropdown-toggle.btn-dark:focus,
+.btn-dark:active.focus,
+.btn-dark.active.focus,
+.open > .dropdown-toggle.btn-dark.focus {
+  color: #fff;
+  background-color: #222;
+  border-color: #222;
+}
+.btn-dark:active,
+.btn-dark.active,
+.open > .dropdown-toggle.btn-dark {
+  background-image: none;
+}
+.btn-dark.disabled:hover,
+.btn-dark[disabled]:hover,
+fieldset[disabled] .btn-dark:hover,
+.btn-dark.disabled:focus,
+.btn-dark[disabled]:focus,
+fieldset[disabled] .btn-dark:focus,
+.btn-dark.disabled.focus,
+.btn-dark[disabled].focus,
+fieldset[disabled] .btn-dark.focus {
+  background-color: #43464B;
+  border-color: #43464B;
+}
+.btn-dark .badge {
+  color: #43464B;
+  background-color: #fff;
+}
+
+
+/*Grey header around title and filter on product pages*/
+.header {
+  background-color: #9d9d9d;
+  padding: 20px;
+  margin: 10px;
+}

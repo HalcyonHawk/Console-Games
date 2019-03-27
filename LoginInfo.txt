@@ -1,0 +1,29 @@
+Employee passwords
+
+Noah
+Username: 11223344
+Password: password
+
+John
+Username: 12123434
+Password: qwerty
+
+Oliver
+Username: 12341234
+Password: admin
+
+
+Notes
+Method to create new user only accessible when already 
+logged in to prevent customers from creating accounts. 
+
+Initial idea of changing the amount in stock was removed as 
+the products are not actually being sold, only getting as far 
+as into the basket, so stock levels shouldn't change. 
+
+Console table removed as it wasn't necessary to create pages on
+selling games as I initially thought. This would only be needed
+if the website sold consoles as well as games. 
+
+All images in the gameImages folder are from game.co.uk.
+Other images are form a variety of sources. 
